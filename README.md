@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/HAWACLOUD/Sandbox/_apis/build/status/erpips.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/HAWACLOUD/Sandbox/_build/latest?definitionId=3&branchName=main)
 
 # Contributing
 
